@@ -21,7 +21,7 @@ Update: Nov 25, 2026 (night)
 ・The TAB key now brings out your wand
 ・Picking up a wand in the shop now shows its name
 ■Coming soon
-・Air Dash will be easier to use: a shorter stroke will work, and you keep your momentum in the air (it will be renamed "Air Slide")
+・Air Dash will be easier to control
 ・Bug fixes and balance adjustments
 ・More spells
 ・Choose your wand's look (any wand you hold can take the look of a wand you own or one placed in the world)
@@ -48,7 +48,7 @@ Update: Nov 25, 2026 (night)
 ・TAB 키로 지팡이가 나옵니다
 ・상점의 지팡이를 손에 들면 지팡이 이름이 나옵니다
 ■업데이트 예정
-・에어 대시를 쓰기 쉽게 고칩니다: 짧게 그려도 나가고, 공중에서 기세가 멈추지 않게 합니다(이름은 「에어 슬라이드」로 바뀝니다)
+・에어 대시의 조작감을 개선합니다
 ・버그 수정・밸런스 조정 등
 ・마법 추가
 ・지팡이 외형 선택(어떤 지팡이를 들어도, 가지고 있는 지팡이나 놓여 있는 지팡이의 외형으로 바꿀 수 있습니다)
@@ -132,7 +132,7 @@ Update: Nov 25, 2026 (night)
 ・千剣が自動で攻撃をはじく動きを消しました
 ・頭の上の HP の帯を下げて、ネームタグと重ならないようにしました（お砂糖中はハートが帯の中に出ます）
 ■更新予定
-・エアダッシュを使いやすく直します：短く描いても出るように、空中で勢いが止まらないように（名前は「エアスライド」に変わります）
+・エアダッシュの操作性を改善します
 ・不具合修正・バランス調整等
 ・魔法の追加
 ・杖の見た目を選べるように（どの杖を持っても、持っている杖や置いてある杖の見た目に変えられます）
