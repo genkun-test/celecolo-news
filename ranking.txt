@@ -1,23 +1,32 @@
 celecolo-rank 1
-t 1795620137
+t 1795645246
 N	77	Okazaki・楽
+N	77	__zumi
+N	77	Lorzen
+N	77	tazunora
 N	76	circle___
+N	76	白狐の嫁入り
+N	76	Stella_ステラ
+N	76	＊アルフィン＊
 N	62	Syun_821
-N	37	ウール105
-N	35	星禾wwww
-N	26	ぬこみや
-N	14	JunWave
-N	1	zzTestLv
+N	54	komatii
 H	74	Okazaki・楽
 H	74	Syun_821
+H	74	aokudrop
+H	74	__zumi
+H	73	＊アルフィン＊
+H	66	Stella_ステラ
+H	66	tazunora
 H	57	ウール105
-H	29	circle___
-H	15	星禾wwww
-L	56	ウール105
+H	36	Lorzen
+H	35	白狐の嫁入り
+L	59	ウール105
 L	54	Okazaki・楽
+L	54	Lorzen
+L	53	＊アルフィン＊
+L	46	Stella_ステラ
 L	34	circle___
-L	19	Syun_821
-L	19	星禾wwww
-L	12	JunWave
-L	12	ぬこみや
-L	7	zzTestLv
+L	32	tazunora
+L	31	白狐の嫁入り
+L	30	komatii
+L	30	糖秋11
