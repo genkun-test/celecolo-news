@@ -1,4 +1,7 @@
 [en]
+Update: Nov 26, 2026
+・Automatic attacks now hit the training dummy in front of the shop when your wand is pointed toward it (if you stand near the dummy, they hit it as before)
+
 Update: Nov 25, 2026 (late night)
 ・Endurance Wave (Normal): enemy HP now grows the same way as the previous version (v2)
 ・Removed the Boss Battle entries from the ranking board and the teleport circle
@@ -26,6 +29,9 @@ Update: Nov 25, 2026 (night)
 ・More spells
 ・Choose your wand's look (any wand you hold can take the look of a wand you own or one placed in the world)
 [ko]
+2026-11-26 업데이트
+・상점 앞의 인형은 지팡이가 인형 쪽을 향했을 때 자동 공격이 맞도록 했습니다(인형 옆에 있으면 지금처럼 맞습니다)
+
 2026-11-25 심야 업데이트
 ・내구 Wave(노멀): 적 체력이 늘어나는 방식을 이전 버전(v2)과 같게 되돌렸습니다
 ・랭킹 보드와 전송진에서 보스 배틀 항목을 없앴습니다
@@ -53,6 +59,9 @@ Update: Nov 25, 2026 (night)
 ・마법 추가
 ・지팡이 외형 선택(어떤 지팡이를 들어도, 가지고 있는 지팡이나 놓여 있는 지팡이의 외형으로 바꿀 수 있습니다)
 [ja]
+2026-11-26 の更新
+・お店の前の人形は、杖の向き先が人形のほうを向いた時に、自動の攻撃が当たるようにしました（人形のそばにいれば今まで通り当たります）
+
 2026-11-25 深夜の更新
 ・耐久Wave（普通）の敵の体力の増え方を、前の版（v2）と同じに戻しました
 ・ランキングの板と転送陣から、ボスバトルの欄を外しました
