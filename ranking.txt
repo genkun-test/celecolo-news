@@ -1,25 +1,25 @@
 celecolo-rank 1
-t 1795800956
+t 1795828958
 N	162	THEE
 N	162	tazunora
 N	162	aokudrop
-N	162	名もなき魔法使い	1
+N	162	LonelyGilly
 N	161	白狐の嫁入り
 N	150	＊アルフィン＊
 N	129	Stella_ステラ
 N	129	名もなき魔法使い	1
 N	128	circle___
-N	121	糖秋11
+N	122	CP0 ルッチ
+H	110	tazunora
+H	110	名もなき魔法使い	1
+H	106	circle___
 H	103	komatii
-H	103	名もなき魔法使い	1
-H	78	tazunora
+H	103	LonelyGilly
 H	78	__zumi
 H	74	名もなき魔法使い	1
 H	74	Syun_821
 H	74	aokudrop
 H	73	＊アルフィン＊
-H	69	circle___
-H	68	白狐の嫁入り
 L	75	名もなき魔法使い	1
 L	65	Einhard660
 L	59	ウール105
@@ -27,6 +27,40 @@ L	55	Lorzen
 L	55	＊アルフィン＊
 L	53	Luna jp
 L	47	Stella_ステラ
+L	45	tazunora
+L	45	LonelyGilly
 L	43	guanshin
-L	43	kai_columbina
-L	43	tazunora
+D	999999	LonelyGilly
+D	999999	面包狗狗੭
+D	575863	tazunora
+D	427749	circle___
+D	157309	名もなき魔法使い	1
+D	113971	CP0 ルッチ
+D	71189	KuroNeko09
+D	20602	mira777
+D	9211	˚-Hyacinth芳瑀໒3
+D	9117	Char_or
+S	40303	tazunora
+S	22230	mira777
+S	19741	名もなき魔法使い	1
+S	16108	circle___
+S	7935	面包狗狗੭
+S	5960	itsuki1224
+S	5246	KuroNeko09
+S	4390	LonelyGilly
+S	3375	˚-Hyacinth芳瑀໒3
+S	1339	CP0 ルッチ
+R	14095	tazunora
+R	8497	KuroNeko09
+R	2825	circle___
+R	678	CP0 ルッチ
+R	626	˚-Hyacinth芳瑀໒3
+R	596	面包狗狗੭
+A	10182	面包狗狗੭
+A	8522	LonelyGilly
+A	7613	tazunora
+A	5201	名もなき魔法使い	1
+A	2325	KuroNeko09
+A	1920	CP0 ルッチ
+A	1314	circle___
+A	1087	˚-Hyacinth芳瑀໒3
